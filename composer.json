@@ -1,0 +1,13 @@
+{
+    "name": "abhishek-laravel/caches",
+    "description": "caches store",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "theopeneyes\\caches\\": "src/"
+        }
+    }
+}
